@@ -14,6 +14,6 @@
         <h2>⛓️ Our Links:</h2>
         <ul>
             <li>🦇 Twitter - https://x.com/Adenzal101 
-            <li> Medium - https://medium.com/@nm747525 
+            <li> Medium - https://medium.com/@Adenzal101
             <li> Discord - https://discordapp.com/users/1013541650850656277
         </ul>
