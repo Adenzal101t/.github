@@ -1,6 +1,6 @@
 
 <section align=center>
-     Welcome to Adenzal101 Team's Profile! 
+  </h2>   Welcome to Adenzal101 Team's Profile! </h2>
 </section>
     <section >
         <h2>🚀 About Us:</h2>
@@ -13,5 +13,7 @@
     <section >
         <h2>⛓️ Our Links:</h2>
         <ul>
-            <li>🦇 Twitter - https://x.com/Adenzal101 Medium - https://medium.com/@nm747525 Discord - https://discordapp.com/users/1013541650850656277
+            <li>🦇 Twitter - https://x.com/Adenzal101 
+            <li> Medium - https://medium.com/@nm747525 
+            <li> Discord - https://discordapp.com/users/1013541650850656277
         </ul>
